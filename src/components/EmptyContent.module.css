@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 3rem;
+    border-top: 1px solid var(--gray-350);
+
+}
+
+.content img {
+    height: 3.5rem;
+    margin: 1rem;
+}
